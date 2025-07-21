@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "147660500949",
+    "project_id": "iharu-ae2e9",
+    "storage_bucket": "iharu-ae2e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147660500949:android:f24dcc2b814e2f6def175c",
+        "android_client_info": {
+          "package_name": "com.example.aiharu_flutter_app_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147660500949-4rmp7o651v1d5lk56fdvhsj2pf59orlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aiharu_flutter_app_new",
+            "certificate_hash": "f3c0c96cffe8fa647b016da6e4a1e4d7455dd231"
+          }
+        },
+        {
+          "client_id": "147660500949-2ogluggnbp7tnbb83ke3085da7uhne9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjdsC-8JFUWDbrQBN6yOwgp5WdqvznaG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147660500949-2ogluggnbp7tnbb83ke3085da7uhne9e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147660500949-427k568ci97c13e6uf4hsbqtb5gl56s6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiharuFlutterAppNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
